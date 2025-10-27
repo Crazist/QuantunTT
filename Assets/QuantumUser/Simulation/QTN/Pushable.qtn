@@ -1,0 +1,6 @@
+component Pushable
+{
+    FP Resistance;
+    FP MaxPushSpeed;
+    FP BaseMass;
+}

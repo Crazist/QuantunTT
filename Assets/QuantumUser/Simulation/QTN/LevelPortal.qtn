@@ -1,0 +1,4 @@
+component LevelPortal
+{
+    AssetRef<LevelAsset> TargetLevel;
+}

@@ -1,0 +1,7 @@
+component Pushing 
+{
+  EntityRef Box; 
+  FP BoxSpeed;  
+  FP OriginalSpeed;
+  bool IsPushing;
+}
